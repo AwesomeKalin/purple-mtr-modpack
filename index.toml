@@ -1,0 +1,116 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "84c0488c1a1aae759c20bfcc3a6ea2a5379c777c414b4c8815f1cf97b78aa11e"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "e1b84efda222d3d22b8b683980ef1d089ca015e0d8671cd18f2892f70d4b03e5"
+metafile = true
+
+[[files]]
+file = "mods/common-roads.pw.toml"
+hash = "e2b8ef435b909f81756464932a66f2e92588841f7e905bb5bb6df52f467b8c74"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "9ebde384d8035ac912d22bbdcaa2c3658d32bad6af1f519f9f738e568d6cd9e0"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "68edb9c0371e1105377db6373e7ccf09275f91cc7ca961b2915b0b32955b9558"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "5197e9172dd9a9b06303b85a837e7a044b71c005b3d0003aa19041a253daf541"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "5a3dbf877863406bd582af4f676e6e0e0e8a3eea259c8e9d291e94dbf042a2c7"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "c33fa79952c4618cd9df346a71353a915535cdfd45c397cf33f0d351985e0473"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/jcm.pw.toml"
+hash = "e2ce890a206d6ad6807c2bc85559159eef55426566e982c4e05c14d3ae7033f7"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "4d8679e54b1f48c3dcc5ce3ae7f023b2c25ef3653f3ebf20a53f95597359c989"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "a8c9353a4a5b4d08823f39e13dd10f04e1c884e5fa5aedae511a26d111a76d8a"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
+metafile = true
+
+[[files]]
+file = "mods/mtr-nte.pw.toml"
+hash = "97fb3d25d1f48dc99a625ec9cf715c262b77ec6dd0c154872fe95da9c1734347"
+metafile = true
+
+[[files]]
+file = "mods/russian-metro-addon.pw.toml"
+hash = "6eb04e29e0e7054979b9c48405bed438f953a5e17e64cfd0bf8753ef8c962f65"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/station-decoration.pw.toml"
+hash = "19c234dccae3896624b605a204e738f4117913f963210c1da27d696fe457e2d1"
+metafile = true
+
+[[files]]
+file = "mods/the-tube.pw.toml"
+hash = "3fcf972ad4185a56f8a9164c5f8c03f636e1d5e4ea6e840fec6770f71ef08fc3"
+metafile = true

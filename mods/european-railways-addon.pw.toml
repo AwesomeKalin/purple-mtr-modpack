@@ -1,0 +1,13 @@
+name = "European Railways Addon"
+filename = "europeanrail-fabric-1.19.2-0.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GoUGCTmI/versions/EzuNXkYr/europeanrail-fabric-1.19.2-0.1.2.jar"
+hash-format = "sha1"
+hash = "da02297ac3943f439aa1fff8a14d676a4a74d45d"
+
+[update]
+[update.modrinth]
+mod-id = "GoUGCTmI"
+version = "EzuNXkYr"

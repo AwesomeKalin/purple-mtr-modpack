@@ -1,0 +1,13 @@
+name = "Common Roads"
+filename = "Common Roads Fabric 1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/okJo8dgi/versions/Dl5VoqUC/Common%20Roads%20Fabric%201.0.1.jar"
+hash-format = "sha1"
+hash = "978504bd567a26541b40c7bb46ac86e2b465af71"
+
+[update]
+[update.modrinth]
+mod-id = "okJo8dgi"
+version = "Dl5VoqUC"
