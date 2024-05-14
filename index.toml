@@ -6,6 +6,11 @@ hash = "84c0488c1a1aae759c20bfcc3a6ea2a5379c777c414b4c8815f1cf97b78aa11e"
 metafile = true
 
 [[files]]
+file = "mods/bombardier-cx-100.pw.toml"
+hash = "fbfd6ff62646eedf586204c7f9f22da1e7373a314a8e0244781394c84d599cec"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e1b84efda222d3d22b8b683980ef1d089ca015e0d8671cd18f2892f70d4b03e5"
 metafile = true
@@ -111,8 +116,28 @@ hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
+file = "mods/ortp-jcm.pw.toml"
+hash = "d9577aa124421b291ab8469d9120e8c4b3e96f53392421fbc89763ae765a1f12"
+metafile = true
+
+[[files]]
+file = "mods/ortp-music.pw.toml"
+hash = "b308172e97781767a74284d817ae74985c0e67622a9636e6575faf02149b9bb4"
+metafile = true
+
+[[files]]
+file = "mods/ortp.pw.toml"
+hash = "c39465477beece8680de9ce4f373fdf797c1c13b668bc96fe3642febc5d34509"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "17651adb28b085101dcded29ef037e6622849a98b21d1c1872185e7b241a32f6"
+metafile = true
+
+[[files]]
+file = "mods/road-things.pw.toml"
+hash = "9a234baae984db2242f810011a5ecf585c246e98a6015a88d994f8a33feeccc7"
 metafile = true
 
 [[files]]
@@ -151,6 +176,16 @@ hash = "17d831dc9a5939806f745aadeb8a0b11b0f1c7f587043e0d1aa77f40c76f73b9"
 metafile = true
 
 [[files]]
+file = "mods/yutong-u12-electric-bus.pw.toml"
+hash = "67d5ffe1170bbd2f06e9c51b1db7b2aee5123346621eaecdd3d2b1f69f790c40"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.pw.toml"
 hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unity.pw.toml"
+hash = "c8f0aa3c1d93898fafb75394089e999e629dc09caa894587ad0382059823c0cf"
 metafile = true

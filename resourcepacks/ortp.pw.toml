@@ -1,0 +1,7 @@
+name = "ORTP"
+filename = "ORTP1.16.zip"
+
+[download]
+url = "https://dl.awesomekalin.eu.org/2024/05/ORTP1.16.zip"
+hash-format = "sha256"
+hash = "ece0e80895a6fc28b026dc71dc1c04ffbae42306ab6dd8b1ba3b76fd894be562"

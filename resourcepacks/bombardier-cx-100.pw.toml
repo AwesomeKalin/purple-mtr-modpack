@@ -1,0 +1,7 @@
+name = "Bombardier CX-100"
+filename = "APM_100_TPA_Addon.zip"
+
+[download]
+url = "https://dl.awesomekalin.eu.org/2024/05/APM_100_TPA_Addon.zip"
+hash-format = "sha256"
+hash = "6bfc6be11495a2b4faf6ad9adb6b5be077eed8a174d15ec1e49da5fcff478f40"
