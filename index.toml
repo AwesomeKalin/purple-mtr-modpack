@@ -6,11 +6,6 @@ hash = "84c0488c1a1aae759c20bfcc3a6ea2a5379c777c414b4c8815f1cf97b78aa11e"
 metafile = true
 
 [[files]]
-file = "resourcepacks/bombardier-cx-100.pw.toml"
-hash = "fbfd6ff62646eedf586204c7f9f22da1e7373a314a8e0244781394c84d599cec"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d121a7520091ee90f6cf39d879fcf8652883a3ba6cf7d1db0713d8909770550e"
 metafile = true
@@ -33,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "8fbd43399f31f4e8c19b31975e2b7e8b44549bc7482ea24302bef97ee4d35fd8"
+metafile = true
+
+[[files]]
+file = "mods/european-railways-addon.pw.toml"
+hash = "16b81bc95606828abede5753190433f2a4d4f1f6f6223090b42e8302d621f8f2"
 metafile = true
 
 [[files]]
@@ -116,28 +116,8 @@ hash = "5f6555d5f27dfc9a3ab880bc9beff98e86d2d2336ad803d98d933e3fa5487cac"
 metafile = true
 
 [[files]]
-file = "resourcepacks/ortp-jcm.pw.toml"
-hash = "d9577aa124421b291ab8469d9120e8c4b3e96f53392421fbc89763ae765a1f12"
-metafile = true
-
-[[files]]
-file = "resourcepacks/ortp-music.pw.toml"
-hash = "b308172e97781767a74284d817ae74985c0e67622a9636e6575faf02149b9bb4"
-metafile = true
-
-[[files]]
-file = "resourcepacks/ortp.pw.toml"
-hash = "9bbbae8e8cbb8a11433977633a023e63cb410e1c659c58fc0efffd587d64365d"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "cb708bb769a9866a3cd265bc1007261ece572903c066c0f64713160dcf905a43"
-metafile = true
-
-[[files]]
-file = "resourcepacks/road-things.pw.toml"
-hash = "9a234baae984db2242f810011a5ecf585c246e98a6015a88d994f8a33feeccc7"
 metafile = true
 
 [[files]]
@@ -176,11 +156,36 @@ hash = "425471013c107d1832e4c28e9023e85bf4504be8ada8862905a0a2ce1cfb0a82"
 metafile = true
 
 [[files]]
-file = "resourcepacks/yutong-u12-electric-bus.pw.toml"
-hash = "67d5ffe1170bbd2f06e9c51b1db7b2aee5123346621eaecdd3d2b1f69f790c40"
+file = "mods/zoomify.pw.toml"
+hash = "e1156a8edad69f65de5bbcd7e7b336a89c8fc5fbc6b93061b20579f2eb672f24"
 metafile = true
 
 [[files]]
-file = "mods/zoomify.pw.toml"
-hash = "e1156a8edad69f65de5bbcd7e7b336a89c8fc5fbc6b93061b20579f2eb672f24"
+file = "resourcepacks/bombardier-cx-100.pw.toml"
+hash = "fbfd6ff62646eedf586204c7f9f22da1e7373a314a8e0244781394c84d599cec"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ortp-jcm.pw.toml"
+hash = "d9577aa124421b291ab8469d9120e8c4b3e96f53392421fbc89763ae765a1f12"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ortp-music.pw.toml"
+hash = "b308172e97781767a74284d817ae74985c0e67622a9636e6575faf02149b9bb4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ortp.pw.toml"
+hash = "9bbbae8e8cbb8a11433977633a023e63cb410e1c659c58fc0efffd587d64365d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/road-things.pw.toml"
+hash = "9a234baae984db2242f810011a5ecf585c246e98a6015a88d994f8a33feeccc7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/yutong-u12-electric-bus.pw.toml"
+hash = "67d5ffe1170bbd2f06e9c51b1db7b2aee5123346621eaecdd3d2b1f69f790c40"
 metafile = true
