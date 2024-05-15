@@ -166,6 +166,16 @@ hash = "fbfd6ff62646eedf586204c7f9f22da1e7373a314a8e0244781394c84d599cec"
 metafile = true
 
 [[files]]
+file = "resourcepacks/british-platform-screen-doors.pw.toml"
+hash = "6a9cbc79246c2a41b0062b0649c158f948f5ccea1d7cf23b520799fe73f130a7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/class-345-train.pw.toml"
+hash = "2d9ca53a2710f36ab2e52e8ed02983da8e645abd0d743259cc3c1a95fbcf1af9"
+metafile = true
+
+[[files]]
 file = "resourcepacks/ortp-jcm.pw.toml"
 hash = "d9577aa124421b291ab8469d9120e8c4b3e96f53392421fbc89763ae765a1f12"
 metafile = true

@@ -1,0 +1,7 @@
+name = "Class 345 Train"
+filename = "Class_345_trains_Crossrail_Elizabeth_line_-_Sir_Piglin.zip"
+
+[download]
+url = "https://dl.awesomekalin.eu.org/2024/05/Class_345_trains_Crossrail_Elizabeth_line_-_Sir_Piglin.zip"
+hash-format = "sha256"
+hash = "5e02b484ba3a7c610b63e09582edec97879f82b83620c5e502e731ce24fd0755"
