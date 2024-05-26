@@ -1,0 +1,7 @@
+name = "Jesse's Transit Addon"
+filename = "JTA-fabric-1.0.0-alpha.1+1.19.2.jar"
+
+[download]
+url = "https://dl.awesomekalin.eu.org/2024/05/JTA-fabric-1.0.0-alpha.1+1.19.2.jar"
+hash-format = "sha256"
+hash = "73cb088676b969b7c8ffa7261c232903db3bd616588556df2ad61ee296280397"
