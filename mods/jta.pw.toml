@@ -1,0 +1,13 @@
+name = "Jesse's Transit Addon"
+filename = "JTA-fabric-1.0.0-alpha.2+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EohbPKqQ/versions/okYisIZb/JTA-fabric-1.0.0-alpha.2%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "298aed66c1e9341c584063674f5648f75d826292"
+
+[update]
+[update.modrinth]
+mod-id = "EohbPKqQ"
+version = "okYisIZb"

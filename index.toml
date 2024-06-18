@@ -71,13 +71,13 @@ hash = "e2ce890a206d6ad6807c2bc85559159eef55426566e982c4e05c14d3ae7033f7"
 metafile = true
 
 [[files]]
-file = "mods/jesse-s-transit-addon.pw.toml"
-hash = "c56caa465bc769989058fc709ed913a607781d4a3f810ec17cfe7f33890edbad"
+file = "mods/journeymap.pw.toml"
+hash = "77139c24eb10441a7d9e8c645b3f1858aa3b31604411bd2b093e41740bf495f5"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "77139c24eb10441a7d9e8c645b3f1858aa3b31604411bd2b093e41740bf495f5"
+file = "mods/jta.pw.toml"
+hash = "6ca8aa4c18f961e11d62c57ac67eb2f4f5adfae719d62eeb00de3d9e3773c058"
 metafile = true
 
 [[files]]
