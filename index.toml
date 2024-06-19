@@ -111,6 +111,11 @@ hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
 
 [[files]]
+file = "mods/mtr-london-underground-trains.pw.toml"
+hash = "6a6b10d14355554256035f216987084ccb9364909ef006ec014996c6bb85e7dd"
+metafile = true
+
+[[files]]
 file = "mods/mtr-nte.pw.toml"
 hash = "fe0ca227e656f1024207bc1a675f32623e5dedd1f7bb5fd75d8b134abc4b96e1"
 metafile = true
