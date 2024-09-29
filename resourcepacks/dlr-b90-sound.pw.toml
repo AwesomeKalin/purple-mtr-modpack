@@ -1,0 +1,7 @@
+name = "dlr_b90_sound"
+filename = "DLR_B90_Sound_Enhancement.zip"
+
+[download]
+url = "https://dl.awesomekalin.eu.org/2024/09/DLR_B90_Sound_Enhancement.zip"
+hash-format = "sha256"
+hash = "dab605aa555e9fcd14cee41c572c37dfbfd18865d002c9f1d17caca1f463c77f"

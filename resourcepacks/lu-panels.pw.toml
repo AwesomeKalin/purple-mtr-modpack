@@ -1,0 +1,7 @@
+name = "lu_panels"
+filename = "lu_addon_panels.zip"
+
+[download]
+url = "https://dl.awesomekalin.eu.org/2024/09/lu_addon_panels.zip"
+hash-format = "sha256"
+hash = "c11d4690e857f387e74963a8fb907e6f3fc0dbba41d6371b1e20d852d4980400"

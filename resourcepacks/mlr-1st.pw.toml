@@ -1,0 +1,7 @@
+name = "mlr_1st"
+filename = "MLRwithFirstClassV1.1.zip"
+
+[download]
+url = "https://dl.awesomekalin.eu.org/2024/09/MLRwithFirstClassV1.1.zip"
+hash-format = "sha256"
+hash = "aca22eb64b2a2ca9c1df59b52b0ede9d20b9b474d7ca00eb2d4980c76970a0ec"

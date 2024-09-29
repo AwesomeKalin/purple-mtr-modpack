@@ -1,0 +1,7 @@
+name = "s43_lrt"
+filename = "S43-Tec_LRT_Pack.zip"
+
+[download]
+url = "https://dl.awesomekalin.eu.org/2024/09/S43-Tec_LRT_Pack.zip"
+hash-format = "sha256"
+hash = "6b8c18e1d2fb791051f008bfd98dd33ae90c88b8f68d4b00b9f83dacbc4b7ac0"

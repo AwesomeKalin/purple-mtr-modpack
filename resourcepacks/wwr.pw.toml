@@ -1,0 +1,7 @@
+name = "wwr"
+filename = "WWR (MTRB) - 24-07-2024.zip"
+
+[download]
+url = "https://dl.awesomekalin.eu.org/2024/09/WWR (MTRB) - 24-07-2024.zip"
+hash-format = "sha256"
+hash = "6a40ce25ad18f05613ddd7a561f90c7242a9e11d907e2852e0cb342ad2aeee2c"

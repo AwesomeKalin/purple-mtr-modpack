@@ -1,0 +1,13 @@
+name = "[MTR] Bombardier Innova APM 100"
+filename = "APM_100_TPA_Addon.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iQvyheE6/versions/QR70aFQf/APM_100_TPA_Addon.zip"
+hash-format = "sha1"
+hash = "a988ead2d0147cfca7f0f53c60c178517e3807e2"
+
+[update]
+[update.modrinth]
+mod-id = "iQvyheE6"
+version = "QR70aFQf"

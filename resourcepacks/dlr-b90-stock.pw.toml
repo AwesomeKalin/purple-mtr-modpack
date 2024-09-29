@@ -1,0 +1,7 @@
+name = "dlr_b90_stock"
+filename = "DLR_B90_Stock_v.6.1.zip"
+
+[download]
+url = "https://dl.awesomekalin.eu.org/2024/09/DLR_B90_Stock_v.6.1.zip"
+hash-format = "sha256"
+hash = "49ca6c94c308d708d0796fb1596d4512875e0deb9961b8b83129d848817be0bd"

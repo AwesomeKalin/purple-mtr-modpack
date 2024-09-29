@@ -1,0 +1,7 @@
+name = "shenzhen"
+filename = "LGRS_Shenzhen_Metro_MOVIA456_Train_Pack_Version1.1.0.zip"
+
+[download]
+url = "https://dl.awesomekalin.eu.org/2024/09/LGRS_Shenzhen_Metro_MOVIA456_Train_Pack_Version1.1.0.zip"
+hash-format = "sha256"
+hash = "e195871edfc69d879533cae5c5757a138be819300ab87334f4fb2edeb893abda"
