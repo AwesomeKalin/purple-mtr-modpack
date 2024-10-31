@@ -1,0 +1,7 @@
+name = "Dual Side LRVs"
+filename = "The_Dual_Side_LRVs.zip"
+
+[download]
+url = "https://dl.awesomekalin.eu.org/2024/10/The_Dual_Side_LRVs.zip"
+hash-format = "sha256"
+hash = "26df63ec70008b007534e559392fb1d78bfbb27801ff828932e2c897844e5efa"
