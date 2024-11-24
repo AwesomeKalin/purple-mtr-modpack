@@ -1,0 +1,13 @@
+name = "Métropolis."
+filename = "Metropolis-0.2.0-beta-MTR3.2.2+fabric-1.19.2_20241102.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g5AOeP4R/versions/4h1qrYYn/Metropolis-0.2.0-beta-MTR3.2.2%2Bfabric-1.19.2_20241102.jar"
+hash-format = "sha1"
+hash = "02656a603bd528a3be98949f30434a7b2890d44a"
+
+[update]
+[update.modrinth]
+mod-id = "g5AOeP4R"
+version = "4h1qrYYn"

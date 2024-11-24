@@ -1,0 +1,13 @@
+name = "Saro´s Money"
+filename = "Saros-Money-Mod.1.19.2-2.3-[Fabric-Quilt].jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vRkO4kGw/versions/DajLf8uq/Saros-Money-Mod.1.19.2-2.3-%5BFabric-Quilt%5D.jar"
+hash-format = "sha1"
+hash = "34231b46dabd55c7b84073357480616408d009bb"
+
+[update]
+[update.modrinth]
+mod-id = "vRkO4kGw"
+version = "DajLf8uq"

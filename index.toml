@@ -151,6 +151,11 @@ hash = "598ad3078516f3b86e699fbf9d07530e1af8f06b4bd144e8dc9fde9ac74e1847"
 metafile = true
 
 [[files]]
+file = "mods/metropolis.pw.toml"
+hash = "a4a93d4d4b1c1995e4dc123355d516bd249194dc694285f614eff9699e1e72c1"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
 hash = "a8c9353a4a5b4d08823f39e13dd10f04e1c884e5fa5aedae511a26d111a76d8a"
 metafile = true
@@ -193,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/russian-metro-addon.pw.toml"
 hash = "6eb04e29e0e7054979b9c48405bed438f953a5e17e64cfd0bf8753ef8c962f65"
+metafile = true
+
+[[files]]
+file = "mods/saros-money.pw.toml"
+hash = "43119fd525a01c8227c230ad1f4dc3287bfdca845a98dbb76c9c94c917292849"
 metafile = true
 
 [[files]]
@@ -241,336 +251,13 @@ hash = "e1156a8edad69f65de5bbcd7e7b336a89c8fc5fbc6b93061b20579f2eb672f24"
 metafile = true
 
 [[files]]
-file = "plain/mods.zip"
-hash = "f2e4dda2fa411f4f973475b4edb81f23aa28b0cea697f06b6df946dd2890d466"
-
-[[files]]
-file = "plain/mods/Common Roads Fabric 1.0.1.jar"
-hash = "74af6520c075f060622ba5f67aab4ed3f2e10b8b56af3599d22ff9497817f720"
-
-[[files]]
-file = "plain/mods/DynamicSoundFilters-1.3.0+1.19.jar"
-hash = "238e6374c4d453a69dd6ffc6ee8fd8a2f77e833e24a266331f852a03cc3eac96"
-
-[[files]]
-file = "plain/mods/Gamma-Utils-1.6.10-mc1.19.2.jar"
-hash = "4e4d1d7d247ecdb75fdcd74ada1ce62d93958be8cecfb6648a5e12b86d8a3634"
-
-[[files]]
-file = "plain/mods/ImmediatelyFast-Fabric-1.2.21+1.19.2.jar"
-hash = "870be207d3fcfb7eb426e2910809b4c99e460c7129ce0113a745c6073cb94204"
-
-[[files]]
-file = "plain/mods/JTA-fabric-1.0.0-alpha.2+1.19.2.jar"
-hash = "5bf9621bcd0659fb9222719ca79d95c049349596589dc981284b545a9b022285"
-
-[[files]]
-file = "plain/mods/Joban-Client-Mod-1.19.2-1.2.2.jar"
-hash = "03093989e8e2422b4d3287843d2eb92c6c596abddf213dbbe635c30d214d1cae"
-
-[[files]]
-file = "plain/mods/MTR-LU-Addon-fabric-1.19.2-2.1.0.jar"
-hash = "214d2b9815cd69f320302d93e8d87599a8d49ec6c445339b10da0b5b335c1a61"
-
-[[files]]
-file = "plain/mods/MTR-LU-Trains-fabric-1.19.2-1.0.0.jar"
-hash = "f6a7b5a7715418dbddb30cba01e155e4e119233377059822631517e87a3c3062"
-
-[[files]]
-file = "plain/mods/MTR-MSD-Addon-fabric-1.19.2-3.2.2-1.3.4-enhancement-1.jar"
-hash = "23826488e7c4dd727dab94fcc4e6c09d2a04ca392f7738012d43ff503e057228"
-
-[[files]]
-file = "plain/mods/MTR-NTE-0.5.1+1.19.2.jar"
-hash = "e767264157ad3e8d3557ccdde37560a6395673d8952817d550746a88362f8f80"
-
-[[files]]
-file = "plain/mods/MTR-Russian-Metro-Addon-fabric-1.19.2-3.2.2-1.1.0.jar"
-hash = "c609b0f0443dbbf54e6df95b00f787cd1d2a2fd7929c4836b32193216b6c906b"
-
-[[files]]
-file = "plain/mods/MTR-fabric-1.19.2-3.2.2-hotfix-1.jar"
-hash = "fe122776062a0c8f4b4c31fda3979b81c7f66897740f649672213c389eeea35f"
-
-[[files]]
-file = "plain/mods/NoChatReports-FABRIC-1.19.2-v1.13.12.jar"
-hash = "be82d90ed39ea9348907e88dd555476c6acbe9057d1938be4c957222786f0912"
-
-[[files]]
-file = "plain/mods/Slideshow-fabric-1.19.2-1.0.3-Enhancement-1.jar"
-hash = "bd9e7fcb9f017b0932e2b2478ca78b2008fd3cbb6d0d07b5150834d620212373"
-
-[[files]]
-file = "plain/mods/YetAnotherConfigLib-2.2.0-for-1.19.2.jar"
-hash = "0a8102f86d50ab01ab02d5e8f47fc658e2e40360e86de7bc399bfe7737c56d9a"
-
-[[files]]
-file = "plain/mods/Zoomify-2.9.0.jar"
-hash = "6985cbd64c12fffbb04af4704b8798ee141c0a646d336704f0bf900ca01ba9f0"
-
-[[files]]
-file = "plain/mods/aftersans53228-fabric-road-1.0.2+1.19.2Release-hotfix.jar"
-hash = "4bef898ad78ee38c9f18be22a60f1037282f97a8d836d360a60aaf6b65e0b49b"
-
-[[files]]
-file = "plain/mods/architectury-6.6.92-fabric.jar"
-hash = "072d19cbe1dcf46588c815371b5a3186ff84512bbd29ed06bc74969bb3857543"
-
-[[files]]
-file = "plain/mods/automobility-0.4.1+1.19.2-fabric.jar"
-hash = "88f89890cf3bb2a48e4aae81a883b71d655182cee943e42e78f3c50929800248"
-
-[[files]]
-file = "plain/mods/blockus-2.5.11+1.19.2.jar"
-hash = "a8956f84c43a5df8eb0f964cfbd3b21bce75d699764eb49ace604e120d2633e2"
-
-[[files]]
-file = "plain/mods/brrp-fabric-1.0.1-1.19.2.jar"
-hash = "ea52f961aa24981d7c00e16f7fb1701419159d7aaa7f460aaafb173306e77d17"
-
-[[files]]
-file = "plain/mods/chisel-1.4.7+1.19.2.jar"
-hash = "55686d5d7ec6175d3c6005e7ac143c94efd4feaa60b75f641ac3fd1f7e1b146f"
-
-[[files]]
-file = "plain/mods/cloth-config-8.3.115-fabric.jar"
-hash = "17244c692ebfff72470b8b15206d95d5d6dfc591dc8093840907b4eade51efbf"
-
-[[files]]
-file = "plain/mods/consistency_plus-fabric-0.5.2-rc.2+1.19.2.jar"
-hash = "3f18f88f1958581bc7804c3efc0b94be3f9954816e1406846ddb0f0e5241b60a"
-
-[[files]]
-file = "plain/mods/continuity-2.0.2+1.19.jar"
-hash = "8ff8aed276f8516c39bf2a1e780d0ce98949b7854664f1a0a50f6a67d846ca10"
-
-[[files]]
-file = "plain/mods/dynamic-fps-3.7.3+minecraft-1.19.0-fabric.jar"
-hash = "fae6fef25205f30d5338e14366ab2d4caff77e9a87cea51ed6f33d49a5594deb"
-
-[[files]]
-file = "plain/mods/enhancedblockentities-0.7.2+1.19.2.jar"
-hash = "d30d07ab73462580a52f73ba95a14c10a87ed3c70c7a386f40afd1308a9c1506"
-
-[[files]]
-file = "plain/mods/entityculling-fabric-1.6.1-mc1.19.2.jar"
-hash = "b418e61bee73a070e2fe7ae5526ed5a4885f8a22c987e86b0615d5bc9aa13c29"
-
-[[files]]
-file = "plain/mods/europeanrail-fabric-1.19.2-0.1.2.jar"
-hash = "0b59f058126afafeee20c7d16c4c679c50565631e590dd688854a170d36b02ab"
-
-[[files]]
-file = "plain/mods/fabric-api-0.77.0+1.19.2.jar"
-hash = "0fc62744a38f629fe0840893713e6a111ed1263719f93e499c990688811824ec"
-
-[[files]]
-file = "plain/mods/fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar"
-hash = "e4f2b0d53a270601e3debd5dcc23ea769f051d30e02692e02a1eb013184505f6"
-
-[[files]]
-file = "plain/mods/ferritecore-5.0.3-fabric.jar"
-hash = "ebb90e7d95a5405c20312459d03234519ab5202a501c34bef73eca9db82434c7"
-
-[[files]]
-file = "plain/mods/immersive_aircraft-0.7.9+1.19.2-fabric.jar"
-hash = "b17819455221e034baac7498c99a9d27cc9d24bcd486624be59a38583eb688de"
-
-[[files]]
-file = "plain/mods/indium-1.0.9+mc1.19.2.jar"
-hash = "e0bee321e771ca46c4117a469cd916a71f8ce44cbfd35c006425775edfb79b50"
-
-[[files]]
-file = "plain/mods/jei-1.19.2-fabric-11.8.0.1030.jar"
-hash = "5a86c000698b815021606f9998882330806a12e4f0b1a683d1ce447821f29462"
-
-[[files]]
-file = "plain/mods/journeymap-1.19.2-5.9.8-fabric.jar"
-hash = "506c56e772d5e25175c1ece9fac5423228bb89ba7fa480c597343763f2e46ed3"
-
-[[files]]
-file = "plain/mods/lazydfu-0.1.3.jar"
-hash = "4f3b77273b57d019a8db58371e63e4426557c1bb7c9cc10536a03972122778c8"
-
-[[files]]
-file = "plain/mods/lithium-fabric-mc1.19.2-0.11.1.jar"
-hash = "7ee6a12cc5dabd0bcd6d368743270de08bc2dbac11d2b5c6d621841b8f448621"
-
-[[files]]
-file = "plain/mods/man_of_many_planes-0.0.4+1.19.2-fabric.jar"
-hash = "dad4c46ca5553b3201f228fe8b6792ad1a36979e3837ba5df692f6d3bb82fce8"
-
-[[files]]
-file = "plain/mods/memoryleakfix-fabric-1.17+-1.1.5.jar"
-hash = "b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde"
-
-[[files]]
-file = "plain/mods/mishanguc-1.3.3-1.19.2.jar"
-hash = "0470cb21812ae065c9b5b1cf55de37c41891411c2d2d450f41666065f096284b"
-
-[[files]]
-file = "plain/mods/modernfix-fabric-5.18.0+mc1.19.2.jar"
-hash = "64e1893dbc1edf35a36d7714d4a5c0fd7373d42b4d3ca93f59931931eeed7b88"
-
-[[files]]
-file = "plain/mods/modmenu-4.2.0-beta.2.jar"
-hash = "d16f8f606270e60c1c85f7ad985387d267ae2ad0e0607396eec1366c8e207792"
-
-[[files]]
-file = "plain/mods/reeses_sodium_options-1.6.4+mc1.19.2-build.93.jar"
-hash = "6fda8630dffc3c1b76a4595a2f20a7ec7db27412f35c1820eeacb85b0c71910c"
-
-[[files]]
-file = "plain/mods/sodium-extra-0.4.16+mc1.19.2-build.90.jar"
-hash = "b300f19b01aba000d212117a404c05bf81f783a2bb2fb8ea2a9ce4a4f9bc74c2"
-
-[[files]]
-file = "plain/mods/sodium-fabric-mc1.19.2-0.4.4+build.18.jar"
-hash = "12ecf3a81bcc18ae87e879124ccbc5d079e500be10e238bf61f56da5c3f7cf53"
-
-[[files]]
-file = "plain/mods/starlight-1.1.1+fabric.ae22326.jar"
-hash = "f2dd6682941326a833aaba868339b4ad9c93882fdef4447120ca0a8dea633a42"
-
-[[files]]
-file = "plain/mods/voicechat-fabric-1.19.2-2.5.22.jar"
-hash = "a17b5aff2c9e39b2b78951ad80b82f5b7d70133159a560c999669b5bc94f2a77"
-
-[[files]]
-file = "plain/resourcepacks/377-retextures.zip"
-hash = "2d94960593301743319fa068f1742f3e65f7dd0996d9e1a963852c9e168f0b8a"
-
-[[files]]
-file = "plain/resourcepacks/APM_100_TPA_Addon.zip"
-hash = "6bfc6be11495a2b4faf6ad9adb6b5be077eed8a174d15ec1e49da5fcff478f40"
-
-[[files]]
-file = "plain/resourcepacks/British_Platform_Screen_Doors.zip"
-hash = "b28d82d3d1ec84a8443e239e201837763c3acefae82fbd50b4e8fcdf6fd0a9be"
-
-[[files]]
-file = "plain/resourcepacks/Buses4MC-1.0.1-HOTFIX.zip"
-hash = "8fa021dd5aabd63a4637b2b9a314b99fffcc29b00a467ef942c232cbdcc0f05c"
-
-[[files]]
-file = "plain/resourcepacks/Circle.zip"
-hash = "7b86f4f78a2c1a88488a2b4962b0129aa6a66195a1669c603a05dc875a44fcbc"
-
-[[files]]
-file = "plain/resourcepacks/Class_345_trains_Crossrail_Elizabeth_line_-_Sir_Piglin.zip"
-hash = "5e02b484ba3a7c610b63e09582edec97879f82b83620c5e502e731ce24fd0755"
-
-[[files]]
-file = "plain/resourcepacks/DLR_B90_Classic_Liveries.zip"
-hash = "f17947b92992f6c34d908f94fe9c6a46abc8d6b84ba942f525a5c5d11b2fa075"
-
-[[files]]
-file = "plain/resourcepacks/DLR_B90_Sound_Enhancement.zip"
-hash = "dab605aa555e9fcd14cee41c572c37dfbfd18865d002c9f1d17caca1f463c77f"
-
-[[files]]
-file = "plain/resourcepacks/DLR_B90_Stock_v.6.1.zip"
-hash = "49ca6c94c308d708d0796fb1596d4512875e0deb9961b8b83129d848817be0bd"
-
-[[files]]
-file = "plain/resourcepacks/Hammersmith_And_City.zip"
-hash = "bbecb2c5d87dc15d722cb67fd56213edd0ed4d6e25b9780a684469992bc8d535"
-
-[[files]]
-file = "plain/resourcepacks/HarrysLib-1.0.1.zip"
-hash = "cd484cecc3b0600f540ab45087d8141732ac8bc5b6033b9d702429c1577c3006"
-
-[[files]]
-file = "plain/resourcepacks/IDFM_v1.zip"
-hash = "cb3d6b33881d575ca0ebb7944fa5c2f1d7b343a34e0d5a3ca710a5d62f20331b"
-
-[[files]]
-file = "plain/resourcepacks/Jubilee.zip"
-hash = "009892c823519a3fe380a2ae19d1253008f40d4242e7819c926cd1d51b8dada4"
-
-[[files]]
-file = "plain/resourcepacks/LGRS_Shenzhen_Metro_MOVIA456_Train_Pack_Version1.1.0.zip"
-hash = "e195871edfc69d879533cae5c5757a138be819300ab87334f4fb2edeb893abda"
-
-[[files]]
-file = "plain/resourcepacks/London_Underground_refurbished_v1.0_.zip"
-hash = "ecde71a69afe311adf81b571eb23fe51c8d658647d41540b48e83d00da7ece7a"
-
-[[files]]
-file = "plain/resourcepacks/MLRwithFirstClassV1.1.zip"
-hash = "aca22eb64b2a2ca9c1df59b52b0ede9d20b9b474d7ca00eb2d4980c76970a0ec"
-
-[[files]]
-file = "plain/resourcepacks/MTR_Announcement_Pack_v6.zip"
-hash = "f8b190bcaaecd7ff147288ad93d3abbc021573fad38d1ea028e53c58a7e985f2"
-
-[[files]]
-file = "plain/resourcepacks/MTR_Creation(Train)_v1.9_20230626.zip"
-hash = "718c36272e9cf5ecdc6f6b3bb981a3198fa7aa914b56c224206bd4ee8c84ef93"
-
-[[files]]
-file = "plain/resourcepacks/MTR_srt_JRtrains_240311.zip"
-hash = "e0139dc46cbaf9278a124723a3b01d9f0ca6da5251375e46d5da6665091001d8"
-
-[[files]]
-file = "plain/resourcepacks/MangoRail - v1.1.zip"
-hash = "310bb9df317e52d72f23343366febdd320b97dad347d946ae4a598faebfd3748"
-
-[[files]]
-file = "plain/resourcepacks/Marius_Repaints_Public_Version.zip"
-hash = "2d8d6a10295bf6d58a6e171f5d635d62b2a52f7930f1b9f78a2dfd13fb52ed75"
-
-[[files]]
-file = "plain/resourcepacks/Metropolian_rp.zip"
-hash = "8f0b48631f4c36462c14e980609c3898f8ba987e72370505bbf6a6d9d7c14ed0"
-
-[[files]]
-file = "plain/resourcepacks/ORTP1.16.zip"
-hash = "ece0e80895a6fc28b026dc71dc1c04ffbae42306ab6dd8b1ba3b76fd894be562"
-
-[[files]]
-file = "plain/resourcepacks/ORTPJCM.zip"
-hash = "485d3d801c3a56cc011b0a368f0082df99298e1f3c357118eeefd890f8da2805"
-
-[[files]]
-file = "plain/resourcepacks/ORTPMusic.zip"
-hash = "f230fdd0f536b12d63e781fb39db5dc6328e371cab551b30520ebd845f8b9452"
-
-[[files]]
-file = "plain/resourcepacks/OZMT MTR Pack v1.0.2.zip"
-hash = "a6b809ea283bdf3e15e103c6fae936f96bc742abb3dcc27766eefb5bcc58f292"
-
-[[files]]
-file = "plain/resourcepacks/RoadThings_public_0.1.zip"
-hash = "20efe34b737011e2c09018d3c18df4a1adca4754e6d6dffa993df87193bdcc15"
-
-[[files]]
-file = "plain/resourcepacks/S43-Tec_LRT_Pack.zip"
-hash = "6b8c18e1d2fb791051f008bfd98dd33ae90c88b8f68d4b00b9f83dacbc4b7ac0"
-
-[[files]]
-file = "plain/resourcepacks/The_Dual_Side_LRVs.zip"
-hash = "26df63ec70008b007534e559392fb1d78bfbb27801ff828932e2c897844e5efa"
-
-[[files]]
-file = "plain/resourcepacks/WWR (MTRB) - 24-07-2024.zip"
-hash = "6a40ce25ad18f05613ddd7a561f90c7242a9e11d907e2852e0cb342ad2aeee2c"
-
-[[files]]
-file = "plain/resourcepacks/XG919.zip"
-hash = "5787ad9ec5a70236db893adc1522190307f92312e38d2c8dfc955ba4fb6d2719"
-
-[[files]]
-file = "plain/resourcepacks/Yutong_U12_ElectricBus_addon_v2.2.zip"
-hash = "703fcccd124473066f6a84fc1434fc839911236356a1af760f725283eaf3cfe8"
-
-[[files]]
-file = "plain/resourcepacks/lu_addon_panels.zip"
-hash = "c11d4690e857f387e74963a8fb907e6f3fc0dbba41d6371b1e20d852d4980400"
-
-[[files]]
 file = "resourcepacks/british-platform-screen-doors.pw.toml"
 hash = "0526ca96094bbc19fb3bce4ff7f2a7232cb5d55ed7090277d6b4003abc29aa33"
+metafile = true
+
+[[files]]
+file = "resourcepacks/british-rail-classes-507-and-508.pw.toml"
+hash = "baf058c06008398587c77396ca0c0da781614d3dfeafc1ec4cddedff5ded8c4b"
 metafile = true
 
 [[files]]
@@ -716,6 +403,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/srt-jrtrains.pw.toml"
 hash = "709889977d73bf4fd724268a9871e372c8e745189efc5b0f45721bdc9faa130e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ubrp.pw.toml"
+hash = "2967b5d0b6722516093663d4e18625e5848d69cf9a8b5c5ae9f1c2621f1a67fd"
 metafile = true
 
 [[files]]
