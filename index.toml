@@ -241,6 +241,11 @@ hash = "3fcf972ad4185a56f8a9164c5f8c03f636e1d5e4ea6e840fec6770f71ef08fc3"
 metafile = true
 
 [[files]]
+file = "mods/url-music-discs.pw.toml"
+hash = "02580060c2e826c3f3e9fb1d12c48efb11a23ecb4d2e2d246ffa12ead46547ef"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "425471013c107d1832e4c28e9023e85bf4504be8ada8862905a0a2ce1cfb0a82"
 metafile = true
