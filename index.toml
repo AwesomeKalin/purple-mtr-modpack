@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/resourcepackupdater.json"
+hash = "69d651bcd7a73d3c8ee250e2d61161eff8667420f85bc9aa96bb7297015a6503"
+
+[[files]]
 file = "mods/aftersans53228-fabric-road.pw.toml"
 hash = "b9817b8defa5bd2425de0ada68cefec6be88a5f86b9758aac81afdb1e4aee505"
 metafile = true
@@ -194,6 +198,10 @@ metafile = true
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "cb708bb769a9866a3cd265bc1007261ece572903c066c0f64713160dcf905a43"
 metafile = true
+
+[[files]]
+file = "mods/resourcepackupdater-1.19.2-2.3.0.jar"
+hash = "3709917217c4712b4a654ec89d914ccc9c24e22e9068bc3c37a5dafadb873638"
 
 [[files]]
 file = "mods/russian-metro-addon.pw.toml"
