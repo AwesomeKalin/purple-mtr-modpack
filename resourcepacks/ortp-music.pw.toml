@@ -1,7 +1,0 @@
-name = "ORTP Music"
-filename = "ORTPMusic.zip"
-
-[download]
-url = "https://dl.awesomekalin.eu.org/2024/05/ORTPMusic.zip"
-hash-format = "sha256"
-hash = "f230fdd0f536b12d63e781fb39db5dc6328e371cab551b30520ebd845f8b9452"

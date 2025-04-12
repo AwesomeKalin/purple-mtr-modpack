@@ -1,7 +1,0 @@
-name = "idfm"
-filename = "IDFM_v1.zip"
-
-[download]
-url = "https://dl.awesomekalin.eu.org/2024/09/IDFM_v1.zip"
-hash-format = "sha256"
-hash = "cb3d6b33881d575ca0ebb7944fa5c2f1d7b343a34e0d5a3ca710a5d62f20331b"

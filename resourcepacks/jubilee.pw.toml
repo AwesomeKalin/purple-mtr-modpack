@@ -1,7 +1,0 @@
-name = "jubilee"
-filename = "Jubilee.zip"
-
-[download]
-url = "https://dl.awesomekalin.eu.org/2024/09/Jubilee.zip"
-hash-format = "sha256"
-hash = "009892c823519a3fe380a2ae19d1253008f40d4242e7819c926cd1d51b8dada4"

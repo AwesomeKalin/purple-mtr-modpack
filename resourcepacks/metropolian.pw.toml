@@ -1,7 +1,0 @@
-name = "metropolian"
-filename = "Metropolian_rp.zip"
-
-[download]
-url = "https://dl.awesomekalin.eu.org/2024/09/Metropolian_rp.zip"
-hash-format = "sha256"
-hash = "8f0b48631f4c36462c14e980609c3898f8ba987e72370505bbf6a6d9d7c14ed0"

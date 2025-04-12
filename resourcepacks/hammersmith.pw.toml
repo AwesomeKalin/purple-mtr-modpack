@@ -1,7 +1,0 @@
-name = "hammersmith"
-filename = "Hammersmith_And_City.zip"
-
-[download]
-url = "https://dl.awesomekalin.eu.org/2024/09/Hammersmith_And_City.zip"
-hash-format = "sha256"
-hash = "bbecb2c5d87dc15d722cb67fd56213edd0ed4d6e25b9780a684469992bc8d535"

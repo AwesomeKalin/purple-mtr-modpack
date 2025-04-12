@@ -1,7 +1,0 @@
-name = "srt_jrtrains"
-filename = "MTR_srt_JRtrains_240311.zip"
-
-[download]
-url = "https://dl.awesomekalin.eu.org/2024/09/MTR_srt_JRtrains_240311.zip"
-hash-format = "sha256"
-hash = "e0139dc46cbaf9278a124723a3b01d9f0ca6da5251375e46d5da6665091001d8"

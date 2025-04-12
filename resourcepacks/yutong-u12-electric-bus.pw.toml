@@ -1,7 +1,0 @@
-name = "Yutong U12 Electric Bus"
-filename = "Yutong_U12_ElectricBus_addon_v2.2.zip"
-
-[download]
-url = "https://dl.awesomekalin.eu.org/2024/05/Yutong_U12_ElectricBus_addon_v2.2.zip"
-hash-format = "sha256"
-hash = "703fcccd124473066f6a84fc1434fc839911236356a1af760f725283eaf3cfe8"

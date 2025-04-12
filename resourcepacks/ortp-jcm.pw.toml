@@ -1,7 +1,0 @@
-name = "ORTP JCM"
-filename = "ORTPJCM.zip"
-
-[download]
-url = "https://dl.awesomekalin.eu.org/2024/05/ORTPJCM.zip"
-hash-format = "sha256"
-hash = "485d3d801c3a56cc011b0a368f0082df99298e1f3c357118eeefd890f8da2805"

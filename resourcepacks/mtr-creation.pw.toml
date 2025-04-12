@@ -1,7 +1,0 @@
-name = "mtr_creation"
-filename = "MTR_Creation(Train)_v1.9_20230626.zip"
-
-[download]
-url = "https://dl.awesomekalin.eu.org/2024/09/MTR_Creation(Train)_v1.9_20230626.zip"
-hash-format = "sha256"
-hash = "718c36272e9cf5ecdc6f6b3bb981a3198fa7aa914b56c224206bd4ee8c84ef93"

@@ -1,7 +1,0 @@
-name = "xg919"
-filename = "XG919.zip"
-
-[download]
-url = "https://dl.awesomekalin.eu.org/2024/09/XG919.zip"
-hash-format = "sha256"
-hash = "5787ad9ec5a70236db893adc1522190307f92312e38d2c8dfc955ba4fb6d2719"

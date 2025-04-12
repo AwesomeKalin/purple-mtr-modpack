@@ -1,7 +1,0 @@
-name = "lu_refurb"
-filename = "London_Underground_refurbished_v1.0_.zip"
-
-[download]
-url = "https://dl.awesomekalin.eu.org/2024/09/London_Underground_refurbished_v1.0_.zip"
-hash-format = "sha256"
-hash = "ecde71a69afe311adf81b571eb23fe51c8d658647d41540b48e83d00da7ece7a"

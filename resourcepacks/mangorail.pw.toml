@@ -1,7 +1,0 @@
-name = "mangorail"
-filename = "MangoRail - v1.1.zip"
-
-[download]
-url = "https://dl.awesomekalin.eu.org/2024/09/MangoRail - v1.1.zip"
-hash-format = "sha256"
-hash = "310bb9df317e52d72f23343366febdd320b97dad347d946ae4a598faebfd3748"

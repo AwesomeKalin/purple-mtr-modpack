@@ -1,7 +1,0 @@
-name = "Circle"
-filename = "Circle.zip"
-
-[download]
-url = "https://dl.awesomekalin.eu.org/2024/09/Circle.zip"
-hash-format = "sha256"
-hash = "7b86f4f78a2c1a88488a2b4962b0129aa6a66195a1669c603a05dc875a44fcbc"

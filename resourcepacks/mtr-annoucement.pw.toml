@@ -1,7 +1,0 @@
-name = "mtr_annoucement"
-filename = "MTR_Announcement_Pack_v6.zip"
-
-[download]
-url = "https://dl.awesomekalin.eu.org/2024/09/MTR_Announcement_Pack_v6.zip"
-hash-format = "sha256"
-hash = "f8b190bcaaecd7ff147288ad93d3abbc021573fad38d1ea028e53c58a7e985f2"

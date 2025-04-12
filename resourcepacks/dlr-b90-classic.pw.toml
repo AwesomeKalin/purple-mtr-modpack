@@ -1,7 +1,0 @@
-name = "dlr_b90_classic"
-filename = "DLR_B90_Classic_Liveries.zip"
-
-[download]
-url = "https://dl.awesomekalin.eu.org/2024/09/DLR_B90_Classic_Liveries.zip"
-hash-format = "sha256"
-hash = "f17947b92992f6c34d908f94fe9c6a46abc8d6b84ba942f525a5c5d11b2fa075"

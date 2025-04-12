@@ -1,7 +1,0 @@
-name = "ozmt"
-filename = "OZMT MTR Pack v1.0.2.zip"
-
-[download]
-url = "https://dl.awesomekalin.eu.org/2024/09/OZMT MTR Pack v1.0.2.zip"
-hash-format = "sha256"
-hash = "a6b809ea283bdf3e15e103c6fae936f96bc742abb3dcc27766eefb5bcc58f292"
