@@ -401,6 +401,11 @@ hash = "2938ae521dccb39235647aac0eeb0df35abb55d9b35a91a38dfb40ce2f8de928"
 metafile = true
 
 [[files]]
+file = "resourcepacks/sebrail-trains.pw.toml"
+hash = "454cfd0410970b168f848d1a0b980c9446c3162ff3186f321949da98d7e43c83"
+metafile = true
+
+[[files]]
 file = "resourcepacks/shenzhen.pw.toml"
 hash = "91f6efed0e0df27c98c302ded83d696a6c15a96a3bf1ec011db918bedf614679"
 metafile = true
@@ -432,4 +437,4 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "0bac21e2c86d58a9b16fb4e378b0b144fd10b209dddc5479ffea619a1f6d5066"
+hash = "f88377e4a2a08a3446b81853a4558c80e96dd8f03b85f09db44a1f4f57ebb763"

@@ -1,0 +1,7 @@
+name = "SebRail Trains"
+filename = "SebRail_Trains.zip"
+
+[download]
+url = "https://dl.awesomekalin.eu.org/2024/11/SebRail_Trains.zip"
+hash-format = "sha256"
+hash = "49325bbfa433362cd7a35b8a5a63accfb5a1f2380dd84c0380ffb1902103b623"
