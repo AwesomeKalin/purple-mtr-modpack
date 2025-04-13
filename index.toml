@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/resourcepackupdater.json"
-hash = "69d651bcd7a73d3c8ee250e2d61161eff8667420f85bc9aa96bb7297015a6503"
+hash = "f24efb3c7228899f7c29d5f6e472f65d8ca9475c4395d0c88034106c25fea2a1"
 
 [[files]]
 file = "mods/aftersans53228-fabric-road.pw.toml"
@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcepackupdater-1.19.2-2.3.0.jar"
-hash = "3709917217c4712b4a654ec89d914ccc9c24e22e9068bc3c37a5dafadb873638"
+hash = "f148702f368e8a2a0dcc962e45026d8063ae9865fb2a8fdf04cb19a69e87c45d"
 
 [[files]]
 file = "mods/russian-metro-addon.pw.toml"

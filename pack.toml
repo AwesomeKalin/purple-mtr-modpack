@@ -1,12 +1,12 @@
-name = "Project J"
-author = "AwesomeKalin55, Jsify"
+name = "PurpleMTR"
+author = "AwesomeKalin55, Matcha"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "83807e9046f04913ba68764e6483e9db14a93e3b78429b92267aff176fef5997"
+hash = "587e28150b5ea878b278299615e7f5db09cf9a932397dd8ce61e0aaa28e1f0ba"
 
 [versions]
 fabric = "0.16.5"
