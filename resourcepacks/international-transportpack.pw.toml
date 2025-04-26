@@ -1,0 +1,13 @@
+name = "[MTR/NTE] International TransportPack"
+filename = "ITP v2.2 Electric transport (Hotfix).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CVOtH8yC/versions/DL4oAD4f/ITP%20v2.2%20Electric%20transport%20%28Hotfix%29.zip"
+hash-format = "sha512"
+hash = "7640a566cc6a5b629bd67b8ff643cff6d292b762a262a299d68f84f5d311c237828ad8e5a43c34dac64385abb446b49102c385d031229372e29afb98de7321c8"
+
+[update]
+[update.modrinth]
+mod-id = "CVOtH8yC"
+version = "DL4oAD4f"

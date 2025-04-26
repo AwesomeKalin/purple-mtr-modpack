@@ -264,6 +264,16 @@ hash = "e1156a8edad69f65de5bbcd7e7b336a89c8fc5fbc6b93061b20579f2eb672f24"
 metafile = true
 
 [[files]]
+file = "resourcepacks/international-transportpack-buses.pw.toml"
+hash = "de14ac0c69caa3d0991408569e45e792d1cda572482d264a176e914042cec5fe"
+metafile = true
+
+[[files]]
+file = "resourcepacks/international-transportpack.pw.toml"
+hash = "0d5fc77c01cbf4e30653cc09e9acf134f7787b422f5a6f8349d6025b2aa8abd2"
+metafile = true
+
+[[files]]
 file = "resourcepacks/metropack-mtr.pw.toml"
 hash = "3f4f328e5fe7abe60eb31040b51c0ce99d4853ff7704f309f85d155daf5759b5"
 metafile = true

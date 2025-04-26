@@ -1,0 +1,13 @@
+name = "[MTR/NTE] International TransportPack"
+filename = "ITP v2.2 Buses.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CVOtH8yC/versions/DL4oAD4f/ITP%20v2.2%20Buses.zip"
+hash-format = "sha512"
+hash = "80e4d2fcb7a40fb56ab93d30b113da7b740b70ca6c0c3d8055c3bc9b796b1f126f52e6b2f38cc2e042a8ae498c52e1d781731058626518ae0af6621757c42af5"
+
+[update]
+[update.modrinth]
+mod-id = "CVOtH8yC"
+version = "DL4oAD4f"
