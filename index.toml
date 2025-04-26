@@ -264,5 +264,10 @@ hash = "e1156a8edad69f65de5bbcd7e7b336a89c8fc5fbc6b93061b20579f2eb672f24"
 metafile = true
 
 [[files]]
+file = "resourcepacks/metropack-mtr.pw.toml"
+hash = "3f4f328e5fe7abe60eb31040b51c0ce99d4853ff7704f309f85d155daf5759b5"
+metafile = true
+
+[[files]]
 file = "servers.dat"
 hash = "f88377e4a2a08a3446b81853a4558c80e96dd8f03b85f09db44a1f4f57ebb763"
