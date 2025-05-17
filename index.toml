@@ -262,6 +262,11 @@ hash = "02580060c2e826c3f3e9fb1d12c48efb11a23ecb4d2e2d246ffa12ead46547ef"
 metafile = true
 
 [[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "9e86144c0543f6bcfa735d71451e93d3b101c94bd7956079c080e9e2a4f90f60"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "425471013c107d1832e4c28e9023e85bf4504be8ada8862905a0a2ce1cfb0a82"
 metafile = true
