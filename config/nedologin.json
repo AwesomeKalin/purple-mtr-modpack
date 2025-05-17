@@ -1,0 +1,9 @@
+{
+  "secs": 600,
+  "autoRegister": true,
+  "enableChangePassword": true,
+  "defaultGameType": 0,
+  "plugins": [],
+  "storageProvider": "nedologin:sqlite",
+  "whitelistCommands": []
+}

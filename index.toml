@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/nedologin.json"
+hash = "6dcc9243aa61d1b920a16e6e590adbc50959bc597ec305e4f08baa7f4b661259"
+
+[[files]]
 file = "config/resourcepackupdater.json"
 hash = "f24efb3c7228899f7c29d5f6e472f65d8ca9475c4395d0c88034106c25fea2a1"
+
+[[files]]
+file = "mods/Nedologin-1.19.2-1.0.8.jar"
+hash = "a8d300e10fa62c4a2bdffed7fce76a6cec5e0874c51dcc17dc7cd9deaee89fe8"
 
 [[files]]
 file = "mods/aftersans53228-fabric-road.pw.toml"
