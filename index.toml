@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "2525e3e87e4ec9ba93d49929080347b81c9db8f79e10b481a8d23c991674c7c1"
+hash = "859362f260c4fe9760387b20b007d77b27b55cd2ba7db5b5bc771b723c470c97"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/metropolis.pw.toml"
-hash = "a4a93d4d4b1c1995e4dc123355d516bd249194dc694285f614eff9699e1e72c1"
+hash = "5a0284f09393780e15684b8be54e071cac9bb151723a8daba452d15733d91d0b"
 metafile = true
 
 [[files]]
