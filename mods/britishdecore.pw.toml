@@ -1,0 +1,13 @@
+name = "BritishDeco"
+filename = "BritishDeco-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rATjRJL6/versions/AdvasCYM/BritishDeco-1.0.0.jar"
+hash-format = "sha512"
+hash = "cc41211e2c21e371e51d964cc332a5de4cf6fb3d47af6a2d9d6d7694ca7d9b03205289f45beca591b62c354e93c37a34ce2c68060bbd52a00e6645d7dea5d2c1"
+
+[update]
+[update.modrinth]
+mod-id = "rATjRJL6"
+version = "AdvasCYM"

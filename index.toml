@@ -29,6 +29,11 @@ hash = "325e11e8d1cb80ae61039c8d490e6ab34b05dbc2ac57ee252ca6f17453c69afa"
 metafile = true
 
 [[files]]
+file = "mods/britishdecore.pw.toml"
+hash = "d66a64458919e15ae8657ff6eb9126227d1554ddfb147186767b54edcac6d070"
+metafile = true
+
+[[files]]
 file = "mods/brrp.pw.toml"
 hash = "fbc36b6d503762964b80bbcbabb1e103891066de3107eaa8e2bdded508a33b04"
 metafile = true
