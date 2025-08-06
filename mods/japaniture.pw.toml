@@ -1,0 +1,13 @@
+name = "Japaniture"
+filename = "Japaniture-1.19.2-2.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xpYjluDL/versions/PiEUumX7/Japaniture-1.19.2-2.1.2.jar"
+hash-format = "sha512"
+hash = "fdeef9e77ea979ca3087fe29fca2a5287798ddb594438c63101d6014d1844ba83c072c54ad0bd4d21174c129f49519d2ea334c2c478858f4418df816c1b9f7e0"
+
+[update]
+[update.modrinth]
+mod-id = "xpYjluDL"
+version = "PiEUumX7"

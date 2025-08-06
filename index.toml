@@ -64,6 +64,16 @@ hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "95cf4b8fd10fe06e941e54eb40f228af42a5b85953596575e87c168c82faf2d5"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "2766b53aae0852ceab94fa0c32aab753bc7c2480978aa36451b6e14e20b879b0"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "4abc5192740e65b3df8777a9e0652f8715b7f51cd68278e919740d7f6978e7a2"
 metafile = true
@@ -126,6 +136,16 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "d8ba2678ccf17c611b17e62290ce30b71d329c082b2cf859c89b446328710109"
+metafile = true
+
+[[files]]
+file = "mods/japanish.pw.toml"
+hash = "b504dd011478d4fc1cec98915402f255677dd352b0434a547b2b1f7afccdb52d"
+metafile = true
+
+[[files]]
+file = "mods/japaniture.pw.toml"
+hash = "cf100a842584c13a5fbd45b776d13ebd7bcb930b117b12472d8fc4c1217e6ecf"
 metafile = true
 
 [[files]]
@@ -194,13 +214,13 @@ hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
 
 [[files]]
-file = "mods/mtr-london-underground-trains.pw.toml"
-hash = "6a6b10d14355554256035f216987084ccb9364909ef006ec014996c6bb85e7dd"
+file = "mods/mtr-ante.pw.toml"
+hash = "6eda33ade4832517835497e7648384bd7db88d8a93ca6571f0ae57f676bb3cf8"
 metafile = true
 
 [[files]]
-file = "mods/mtr-nte.pw.toml"
-hash = "fe0ca227e656f1024207bc1a675f32623e5dedd1f7bb5fd75d8b134abc4b96e1"
+file = "mods/mtr-london-underground-trains.pw.toml"
+hash = "6a6b10d14355554256035f216987084ccb9364909ef006ec014996c6bb85e7dd"
 metafile = true
 
 [[files]]

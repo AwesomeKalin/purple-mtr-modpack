@@ -1,0 +1,13 @@
+name = "Japanish"
+filename = "Japanish-1.19.2-0.8.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NCgMbxGG/versions/LouLBbih/Japanish-1.19.2-0.8.1-Fabric.jar"
+hash-format = "sha512"
+hash = "aadcd31571704a2b34ec18e0c070e8c6758b0919ac1f0bce167db36087cba2dc2889eee1a3f1497ce34cdd0e5ed9e065b681b31439233bbbd8c2415b47874d05"
+
+[update]
+[update.modrinth]
+mod-id = "NCgMbxGG"
+version = "LouLBbih"
