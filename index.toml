@@ -233,6 +233,11 @@ hash = "5f6555d5f27dfc9a3ab880bc9beff98e86d2d2336ad803d98d933e3fa5487cac"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "1a31f90d7aa97e3e98885c454654be8510218da16cb2d4beb74752f550ce5a59"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "9a9a71f93636c77d162a3fa4e8e3ca979586054ab7a95421db8f614b69516ce5"
 metafile = true
@@ -289,6 +294,11 @@ metafile = true
 [[files]]
 file = "mods/the-tube.pw.toml"
 hash = "3fcf972ad4185a56f8a9164c5f8c03f636e1d5e4ea6e840fec6770f71ef08fc3"
+metafile = true
+
+[[files]]
+file = "mods/trafficcraft.pw.toml"
+hash = "7871a15b24714d46946f1f491137c6b548024182512b870dcf23bb425d62a3c7"
 metafile = true
 
 [[files]]
