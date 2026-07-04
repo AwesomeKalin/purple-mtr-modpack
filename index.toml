@@ -9,10 +9,6 @@ file = "config/resourcepackupdater.json"
 hash = "f24efb3c7228899f7c29d5f6e472f65d8ca9475c4395d0c88034106c25fea2a1"
 
 [[files]]
-file = "mods/ModernJapanCity-Fabric-1.19.2-1.0.4.jar"
-hash = "9521d919e2982a96da5a7bb57724fd6d507969fbe23cc6360648ce82cb6b4cd3"
-
-[[files]]
 file = "mods/aftersans53228-fabric-road.pw.toml"
 hash = "b9817b8defa5bd2425de0ada68cefec6be88a5f86b9758aac81afdb1e4aee505"
 metafile = true
@@ -320,10 +316,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "e1156a8edad69f65de5bbcd7e7b336a89c8fc5fbc6b93061b20579f2eb672f24"
 metafile = true
-
-[[files]]
-file = "resourcepacks/Mini_plane_2.0.zip"
-hash = "30fea0b12f797af390dcb217b288c33df2c8e4ecf0ac562020674dd1ae78dc73"
 
 [[files]]
 file = "resourcepacks/international-transportpack-buses.pw.toml"
