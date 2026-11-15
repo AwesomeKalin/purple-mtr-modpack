@@ -1,13 +1,13 @@
 name = "aftersans53228's fabric road"
-filename = "aftersans53228-fabric-road-1.0.2+1.19.2Release-hotfix.jar"
+filename = "AFRoads-1.1.0+1.20.1-dev-u1-coldfix.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6HONPMpu/versions/egd2xpdk/aftersans53228-fabric-road-1.0.2%2B1.19.2Release-hotfix.jar"
-hash-format = "sha1"
-hash = "2555d2d81a5dc7146ce6db6c86e320c9e7d58344"
+url = "https://cdn.modrinth.com/data/6HONPMpu/versions/C0G8fkoB/AFRoads-1.1.0%2B1.20.1-dev-u1-coldfix.jar"
+hash-format = "sha512"
+hash = "11d0dac7f856d92e11650c06ac07be4b5cde8a82b0498783e2fc0a7281290649d6931e6fda4c7ba58f7f0fc95ea8a668a43176a5ebb0767fa6bde32a9c0e2a5a"
 
 [update]
 [update.modrinth]
 mod-id = "6HONPMpu"
-version = "egd2xpdk"
+version = "C0G8fkoB"

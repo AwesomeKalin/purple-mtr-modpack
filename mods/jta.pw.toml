@@ -1,13 +1,13 @@
 name = "Jesse's Transit Addon"
-filename = "JTA-fabric-1.0.0-alpha.2+1.19.2.jar"
+filename = "BTA-fabric-1.0.0-beta.2+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EohbPKqQ/versions/okYisIZb/JTA-fabric-1.0.0-alpha.2%2B1.19.2.jar"
-hash-format = "sha1"
-hash = "298aed66c1e9341c584063674f5648f75d826292"
+url = "https://cdn.modrinth.com/data/EohbPKqQ/versions/HqWPwQXP/BTA-fabric-1.0.0-beta.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "6b18c86999facba671fa8ff2c89ae61b7b3b402d08b3de62d3cf623e16c32057e05e4239232deccdbc407d5408afeb35e6b6f6d49395442fbf3fe260304123c6"
 
 [update]
 [update.modrinth]
 mod-id = "EohbPKqQ"
-version = "okYisIZb"
+version = "HqWPwQXP"

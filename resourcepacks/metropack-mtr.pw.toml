@@ -1,13 +1,13 @@
 name = "Metropack MTR"
-filename = "MP_MTR_0.8.1-HOTFIX.zip"
+filename = "MP_MTR4_1.0.0.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/jEN85XK3/versions/MUZI5ISs/MP_MTR_0.8.1-HOTFIX.zip"
+url = "https://cdn.modrinth.com/data/jEN85XK3/versions/XHrQKTP7/MP_MTR4_1.0.0.zip"
 hash-format = "sha512"
-hash = "3990651c36543a0b6165838a47ce9b2f6762cc88a0786824225af2e044c54769d63e83bbd1e9fda7706deb442b3bae00b2f525c44a273d77bb8c34bf36c2a1e8"
+hash = "236f369930b42473655ea6004ff5df54c8e07519d6dc42eb59e46af34313e6da45eb7d72112fb63ad2d904841411e9390b38a3e74fb7cff36927d3ac9212ec81"
 
 [update]
 [update.modrinth]
 mod-id = "jEN85XK3"
-version = "MUZI5ISs"
+version = "XHrQKTP7"

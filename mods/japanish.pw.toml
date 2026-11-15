@@ -1,13 +1,13 @@
 name = "Japanish"
-filename = "Japanish-1.19.2-0.8.1-Fabric.jar"
+filename = "Japanish-1.20.1-0.8.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NCgMbxGG/versions/LouLBbih/Japanish-1.19.2-0.8.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/NCgMbxGG/versions/NMyL8NiU/Japanish-1.20.1-0.8.1.jar"
 hash-format = "sha512"
-hash = "aadcd31571704a2b34ec18e0c070e8c6758b0919ac1f0bce167db36087cba2dc2889eee1a3f1497ce34cdd0e5ed9e065b681b31439233bbbd8c2415b47874d05"
+hash = "a8e17f9708f7bad263336a4fae0a6c52d6a3554cc6ba2cc34dcd802d8b1df67af94672435cb38b07a1d879c5053d0bbe9d20f8f0c50443f6bd75fd65ec8b4db3"
 
 [update]
 [update.modrinth]
 mod-id = "NCgMbxGG"
-version = "LouLBbih"
+version = "NMyL8NiU"
