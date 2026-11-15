@@ -1,0 +1,13 @@
+name = "[MTR3]Tianjin Metro Jinjing Line SFM120 Train"
+filename = "TRTJJLine_Ver1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XhC6d5ft/versions/wtdSoaGO/TRTJJLine_Ver1.zip"
+hash-format = "sha512"
+hash = "150f293e5e5e8b362d669e013e252671f31d8ac58c832a6bfabc7731533b4dd22475c50f072ee9d6f0204a237eafd369b808e61c8ac215f779952ee97209fce2"
+
+[update]
+[update.modrinth]
+mod-id = "XhC6d5ft"
+version = "wtdSoaGO"

@@ -1,0 +1,13 @@
+name = "[MTR3] British Rail Classes 507 & 508"
+filename = "BR Class 507 & 508.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KymGh3B1/versions/d7LcVUdg/BR%20Class%20507%20%26%20508.zip"
+hash-format = "sha512"
+hash = "2004bf993499f558397af2056dbcd97cd8423004a7d5be23a72ae2daedc9ec2d64eb1b887012c500b5209014fad3d09be7ca58e907434e4bafb8c45aef013547"
+
+[update]
+[update.modrinth]
+mod-id = "KymGh3B1"
+version = "d7LcVUdg"

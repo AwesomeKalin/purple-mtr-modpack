@@ -1,0 +1,13 @@
+name = "[MTR/NTE]Chongqing Monorail Train Pack"
+filename = "Chongqing Metro Monorail Train Pack V1.7.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/65ZeKpPt/versions/2FkIbcfo/Chongqing%20Metro%20Monorail%20Train%20Pack%20V1.7.zip"
+hash-format = "sha512"
+hash = "437a65f3a5e5a233a1d81446441f54656e77f9868c18109d45a881bbca4dd0a910d5029628a739561811df0ce5413500da6ad4b35be98e85402d33954886bf98"
+
+[update]
+[update.modrinth]
+mod-id = "65ZeKpPt"
+version = "2FkIbcfo"

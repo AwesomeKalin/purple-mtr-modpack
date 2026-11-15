@@ -1,0 +1,13 @@
+name = "[MTR] Elizabeth Line and c2c Train Pack"
+filename = "elizabethline_c2c_pack_2.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Aun6kDb8/versions/Es5QQAJD/elizabethline_c2c_pack_2.0.0.zip"
+hash-format = "sha512"
+hash = "4f00d4f947df15563d7898a18be7539199ae0a00b19bc660359893d2391fd9267dd76481e04048ca257c8654d44377248fb7745afde17da5fe3cb69d677c3c90"
+
+[update]
+[update.modrinth]
+mod-id = "Aun6kDb8"
+version = "Es5QQAJD"

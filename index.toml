@@ -293,6 +293,56 @@ hash = "7505612073c27604a4d50ffc7468c4c77354bacb9d90811135c0c5411ee2c162"
 metafile = true
 
 [[files]]
+file = "resourcepacks/british-rail-class-153.pw.toml"
+hash = "dbaa7d858601881dc6dccce5f00093085c98e6c9e0ed523999f44a2dc5beda9d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/british-rail-class-321.pw.toml"
+hash = "5ba4c4f47a5172b402dfdd1196fa451da66fae3a40ffce1c7a9ee085804b7924"
+metafile = true
+
+[[files]]
+file = "resourcepacks/british-rail-class-350.pw.toml"
+hash = "cd19eb9fc289fb943d3cb0256822c7ecae324be077029417e05f5e11db265a35"
+metafile = true
+
+[[files]]
+file = "resourcepacks/british-rail-classes-323-and-157.pw.toml"
+hash = "eb6c182bb9fe3843276a128693eb779651c04f92b26374b4992f001b7711cb82"
+metafile = true
+
+[[files]]
+file = "resourcepacks/british-rail-classes-507-and-508.pw.toml"
+hash = "402a93f4e0547ed78bbc0781b7f0e1ef9e152912719b544b497a0e3d22d1a51a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chiba-monorail-pack-mtr.pw.toml"
+hash = "e8503c3c149229039edb8e8d3d080ccf99c4717b9b3163c392acbe735e767a64"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chongqing-metro-monorail-train-pack.pw.toml"
+hash = "f41ac7aaa6d9338f0ce8d8d758a41c3ebaf78f354f48423d0bf8c9ab9f9d1a9d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cx100-tampa.pw.toml"
+hash = "4cd8dbbace9b041f671ab1f638de6f2f9f7e5d2aa308744087134448f8a1edea"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dlr-b90.pw.toml"
+hash = "0a9105bd56c7fb72dd364419dfef78c15d71c021e5bf9239730930e479f24538"
+metafile = true
+
+[[files]]
+file = "resourcepacks/elizabeth-and-c2c-trains.pw.toml"
+hash = "4463c31ce8170981f1a99e9ec30efe086917a9cfbe2a200f4eee09f3486391fe"
+metafile = true
+
+[[files]]
 file = "resourcepacks/international-transportpack-buses.pw.toml"
 hash = "aece98d8356cc93a0dc7ffcb5f66f1eb972de5147b0dac02ecf9569b9f0ee919"
 metafile = true
@@ -303,8 +353,88 @@ hash = "aece98d8356cc93a0dc7ffcb5f66f1eb972de5147b0dac02ecf9569b9f0ee919"
 metafile = true
 
 [[files]]
+file = "resourcepacks/lcr.pw.toml"
+hash = "99780c05ad605b72362cc7bd1610ee1cb3a4220d7a0c3e525b683f751d01dc35"
+metafile = true
+
+[[files]]
+file = "resourcepacks/lert-osaka-21.pw.toml"
+hash = "32d952bc320f98f42f55c85a68e2409e542b970dcf7050d17cef063588bdb453"
+metafile = true
+
+[[files]]
+file = "resourcepacks/lert.pw.toml"
+hash = "3b9fe592527a22a51d36efa2d6beab85aa6dcd009fb95b8aa0d054f534fdcde5"
+metafile = true
+
+[[files]]
 file = "resourcepacks/metropack-mtr.pw.toml"
 hash = "462f257d6d6e8892a6ca130328267ecf88b99a7074859c0162a718d50687fd5a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/minecraft-transit-railway-dlr-b07-stock.pw.toml"
+hash = "ca80dba56264749bbe5f7245041f83f1784b061d84af98a0476560b7f8bf04c0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-curved-platform.pw.toml"
+hash = "9c42dd249866c71632c02a15b30baace2cb955abf611f194cc41c761cd69420c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-n700a-series-shinkansen.pw.toml"
+hash = "cfd08303ad8cc1c9460aaaa66a5a1ece4ec0898f626759b67a047376b5bd5aba"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr1067mm_rail.pw.toml"
+hash = "172e07a2445bba2624eacd9594a08293fd0bb317177f25aa5d60b887ba4b6a8f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr34jr-trains-pack.pw.toml"
+hash = "289dbb9118aa8b7befda8ea030a84ac4caa3068df0ec5f9ccc81d285e5418fe0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtrbritish-rail-mark-2.pw.toml"
+hash = "9f48792ff6389fccc718611feff4f47a6010b731ed4c92b9e93da252078f7a84"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtrkorail_suburban_trains.pw.toml"
+hash = "e24bf60831777a7ca6e5ba54a61a2293476aa8dbf082527e8731a5a1efbd7a33"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtrsydney_metro_and_trains.pw.toml"
+hash = "1663b109a6b6ccc25b315745fbddb3e8246fa9fd19b164cc698306e1f281e376"
+metafile = true
+
+[[files]]
+file = "resourcepacks/southeastern-electrostar-pack.pw.toml"
+hash = "eb41a302421d38cda930487916d9bb4ebc043fc3c6912cae558da2e39ee263d0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/the-pcma-pack.pw.toml"
+hash = "5f5e9f70122c3383b5035821fe4ed4b37ea770aecbc847b30244746363db7ca0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/the-turbostar-class-168170171172-pack-mtr4.pw.toml"
+hash = "06ce77a875a2b3f980131b4948e34311dd04b6b9885c30f61530c8226f897c93"
+metafile = true
+
+[[files]]
+file = "resourcepacks/trtjjline.pw.toml"
+hash = "fca4c52e7bbaf720139c96b7fda4ccd9359dd6bafeced54ab6f97249a2f93fe4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tyne-and-wear-metrocar.pw.toml"
+hash = "7a790f4692dc086eb5a824e5b6a1f0b3d34ce794ccd573150cc83904022d22ff"
 metafile = true
 
 [[files]]

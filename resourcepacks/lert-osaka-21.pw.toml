@@ -1,0 +1,13 @@
+name = "MTR Low effort Osaka Metro New 20 Series"
+filename = "OsakaMetro21Series.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KFkdaO6n/versions/8UeiGScD/OsakaMetro21Series.zip"
+hash-format = "sha512"
+hash = "a7f2b0b251e4267599733013088cf68defc8ada44cccf494f13eb82815ab7336e896c51f93eb4efa7147429f48584794844d9872261e65ea578b778ddeb98a42"
+
+[update]
+[update.modrinth]
+mod-id = "KFkdaO6n"
+version = "8UeiGScD"
