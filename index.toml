@@ -55,13 +55,18 @@ hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "1a4f89d8e424a9327584b05b3e6bb1950172ed305dd31f693a6a23f48f84045c"
+file = "mods/cryonicconfig.pw.toml"
+hash = "ac8c9d8a720dac25670730ed542c7e1575a96103127f5a7a277594e438a420f6"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-sound-filters.pw.toml"
-hash = "bef05a402638e0f78737431220eed6e21c1aff4552eaf298dd97c83ce126396e"
+file = "mods/dragonlib.pw.toml"
+hash = "1eb13c37d9d3a0d46d5fac90dc354aa2fe2d6f537d54df6a1f196e3cff73f31c"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "1a4f89d8e424a9327584b05b3e6bb1950172ed305dd31f693a6a23f48f84045c"
 metafile = true
 
 [[files]]
@@ -92,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "b8b970af1b9ad441baa65e8928fb147044be3fb24c3f72a364ea53a6045da0cd"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "930bb7150387995f4764a33a41bc1dde3f0e977c0432010e96ea2076fcf6d85d"
 metafile = true
 
 [[files]]
@@ -137,11 +147,6 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "dea8a940589983c60f26d674baa11993b945f6d06d3c27541a1d00f3896f5507"
-metafile = true
-
-[[files]]
-file = "mods/jta.pw.toml"
-hash = "a71665cb04236e198389555ea793bc83edcc3bb9ed07e640297a01797201874b"
 metafile = true
 
 [[files]]
