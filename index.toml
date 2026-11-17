@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "b9612cb37db4bb7174b88a4ddef5060f483033af75a81dea156da0d0984c92d4"
+
+[[files]]
 file = "mods/BTA-fabric-1.0.0-beta.2+1.20.1.jar"
 hash = "afa50ee6defe03f129eb7b5266dc61180669aa23925af42c58849654fa525154"
 
@@ -220,6 +224,11 @@ hash = "821587e4fd6cbb23dc6e29a9ebea5c0acf8967fca06ac887e1907f4eeee5fb73"
 metafile = true
 
 [[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "1224221ef8ec2447a9723b25dc6a92dc0ecea87d90a13754e4895abd3a4c5a8c"
+metafile = true
+
+[[files]]
 file = "mods/russian-metro-addon.pw.toml"
 hash = "0efe63ff58d62a614ca15bad8e5892bc07949c4edf99ffae397aa2b26ff17df7"
 metafile = true
@@ -343,6 +352,10 @@ metafile = true
 file = "resourcepacks/international-transportpack.pw.toml"
 hash = "aece98d8356cc93a0dc7ffcb5f66f1eb972de5147b0dac02ecf9569b9f0ee919"
 metafile = true
+
+[[files]]
+file = "resourcepacks/japaniture-fix.zip"
+hash = "f7bde33ce6bea3ca0ae626439636f85be7b57277c9f84aa043073f27c7e3f81f"
 
 [[files]]
 file = "resourcepacks/lcr.pw.toml"

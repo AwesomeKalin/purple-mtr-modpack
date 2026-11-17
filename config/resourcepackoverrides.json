@@ -1,0 +1,15 @@
+{
+    "schema_version": 2,
+    "default_overrides": {
+        "force_compatible": true
+    },
+    "pack_overrides": {
+        "1": [
+            "file/japaniture-fix.zip"
+        ],
+        "$$1": {
+            "hidden": true,
+            "required": true
+        }
+    }
+}
