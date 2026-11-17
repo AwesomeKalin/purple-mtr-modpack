@@ -294,6 +294,14 @@ hash = "7505612073c27604a4d50ffc7468c4c77354bacb9d90811135c0c5411ee2c162"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Mini_plane_2.0 (1).zip"
+hash = "30fea0b12f797af390dcb217b288c33df2c8e4ecf0ac562020674dd1ae78dc73"
+
+[[files]]
+file = "resourcepacks/Yutong_U12_ElectricBus_addon_v2.2.zip"
+hash = "703fcccd124473066f6a84fc1434fc839911236356a1af760f725283eaf3cfe8"
+
+[[files]]
 file = "resourcepacks/british-rail-class-153.pw.toml"
 hash = "dbaa7d858601881dc6dccce5f00093085c98e6c9e0ed523999f44a2dc5beda9d"
 metafile = true
