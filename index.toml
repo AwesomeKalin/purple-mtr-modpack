@@ -19,6 +19,11 @@ hash = "8d4062c1773719f1e07818d27233ce07c9caf65dd52f9263c4699519dcf02ffa"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "059a497b3bc326f39e7585eca6021f04e9ce2545c21f00e57e72ef48643148ae"
+metafile = true
+
+[[files]]
 file = "mods/blockus.pw.toml"
 hash = "5a8d353bab343c487cf35c1007e57d7768d3f5a48da0b7a26f5acf3f4708a880"
 metafile = true
