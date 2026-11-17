@@ -1,17 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/nedologin.json"
-hash = "6dcc9243aa61d1b920a16e6e590adbc50959bc597ec305e4f08baa7f4b661259"
-
-[[files]]
-file = "config/resourcepackupdater.json"
-hash = "f24efb3c7228899f7c29d5f6e472f65d8ca9475c4395d0c88034106c25fea2a1"
-
-[[files]]
-file = "mods/aftersans53228-fabric-road.pw.toml"
-hash = "84282bf846e152604abcc17cc4d74f4f0585ef39bb40cf4ae4859769c3c4ce0a"
-metafile = true
+file = "mods/BTA-fabric-1.0.0-beta.2+1.20.1.jar"
+hash = "afa50ee6defe03f129eb7b5266dc61180669aa23925af42c58849654fa525154"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -224,17 +215,8 @@ hash = "821587e4fd6cbb23dc6e29a9ebea5c0acf8967fca06ac887e1907f4eeee5fb73"
 metafile = true
 
 [[files]]
-file = "mods/resourcepackupdater-1.19.2-2.3.0.jar"
-hash = "f148702f368e8a2a0dcc962e45026d8063ae9865fb2a8fdf04cb19a69e87c45d"
-
-[[files]]
 file = "mods/russian-metro-addon.pw.toml"
 hash = "0efe63ff58d62a614ca15bad8e5892bc07949c4edf99ffae397aa2b26ff17df7"
-metafile = true
-
-[[files]]
-file = "mods/saros-money.pw.toml"
-hash = "f07af49d70f42260d9fa6e6e758889030704f6e25a262d51efc2f1e01941d829"
 metafile = true
 
 [[files]]
@@ -343,6 +325,11 @@ hash = "4463c31ce8170981f1a99e9ec30efe086917a9cfbe2a200f4eee09f3486391fe"
 metafile = true
 
 [[files]]
+file = "resourcepacks/foamerail-pack.pw.toml"
+hash = "2e7c7db8e29e9c61eecce7eee8844fb6680b58f5de818a113d2aee23678f979c"
+metafile = true
+
+[[files]]
 file = "resourcepacks/international-transportpack-buses.pw.toml"
 hash = "aece98d8356cc93a0dc7ffcb5f66f1eb972de5147b0dac02ecf9569b9f0ee919"
 metafile = true
@@ -360,6 +347,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/lert-osaka-21.pw.toml"
 hash = "32d952bc320f98f42f55c85a68e2409e542b970dcf7050d17cef063588bdb453"
+metafile = true
+
+[[files]]
+file = "resourcepacks/lert-q-train.pw.toml"
+hash = "51dedfd2213022263e13c163df8ed4f19046c415cd4ea5ddbe93e15129663b4f"
 metafile = true
 
 [[files]]
