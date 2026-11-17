@@ -1,0 +1,13 @@
+name = "Minecraft Transit Railway - DLR B07 Stock"
+filename = "DLR B07 Stock v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/M8QSEpRI/versions/phOiBnMA/DLR%20B07%20Stock%20v1.0.zip"
+hash-format = "sha512"
+hash = "733a58225f367ca39a5928dc152d6dd2b6b94527c8d8cff954565afaebe46b5e3a84006bfe08ea6575b300790be85fa715eed28ebfd6a8ece2b5fa30b69ec7b6"
+
+[update]
+[update.modrinth]
+mod-id = "M8QSEpRI"
+version = "phOiBnMA"

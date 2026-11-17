@@ -1,13 +1,13 @@
 name = "Japaniture"
-filename = "Japaniture-1.19.2-2.1.2.jar"
+filename = "japanituremod-fabric-4.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xpYjluDL/versions/PiEUumX7/Japaniture-1.19.2-2.1.2.jar"
+url = "https://cdn.modrinth.com/data/xpYjluDL/versions/RUEjs12V/japanituremod-fabric-4.0.1.jar"
 hash-format = "sha512"
-hash = "fdeef9e77ea979ca3087fe29fca2a5287798ddb594438c63101d6014d1844ba83c072c54ad0bd4d21174c129f49519d2ea334c2c478858f4418df816c1b9f7e0"
+hash = "12e46af5d7a919e9f2cf0eb9ff23597753ef15894bacde4bdb8dafc0f3c2d0676116a9c6c65d6971c253a7ee578b903ac1175c11b0f341be861fce01fedbbf70"
 
 [update]
 [update.modrinth]
 mod-id = "xpYjluDL"
-version = "PiEUumX7"
+version = "RUEjs12V"

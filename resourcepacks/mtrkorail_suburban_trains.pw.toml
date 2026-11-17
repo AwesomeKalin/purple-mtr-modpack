@@ -1,0 +1,13 @@
+name = "[MTR3/4]Korail Suburban Trains"
+filename = "MTR_KORAIL_Suburban_4.0_260907.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rw0YcpMS/versions/ZHUjSKd3/MTR_KORAIL_Suburban_4.0_260907.zip"
+hash-format = "sha512"
+hash = "bcccd401f21aaf0bb2fe8264b694229d24ad8ff945c840e8255834c9ca358921172181b6de0d6647c6b6d609d139e5cc5dd017a90e94d312659671c7370c72a5"
+
+[update]
+[update.modrinth]
+mod-id = "Rw0YcpMS"
+version = "ZHUjSKd3"
