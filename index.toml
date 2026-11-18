@@ -324,8 +324,20 @@ hash = "7505612073c27604a4d50ffc7468c4c77354bacb9d90811135c0c5411ee2c162"
 metafile = true
 
 [[files]]
+file = "resourcepacks/DMR-New-Trains.zip"
+hash = "051cd552029cc93c34bcdae4a6ed8fd3d7e8be30b865855c92748ae991b38a2f"
+
+[[files]]
 file = "resourcepacks/Mini_plane_2.0 (1).zip"
 hash = "30fea0b12f797af390dcb217b288c33df2c8e4ecf0ac562020674dd1ae78dc73"
+
+[[files]]
+file = "resourcepacks/PRL_Pack.zip"
+hash = "749c9f1c4f68f19e288bd9b1e495dd4e3520c3dd3cf2aeb3fcd4e588670ed146"
+
+[[files]]
+file = "resourcepacks/PurpleMTRS6.3.0.0.zip"
+hash = "403f8d6987643c465ed098e456930b2ea21e565cee5fb8f3563a6ad2e8cedd43"
 
 [[files]]
 file = "resourcepacks/TransCapital Announcement Pack.zip"
@@ -379,6 +391,10 @@ metafile = true
 file = "resourcepacks/dlr-b90.pw.toml"
 hash = "0a9105bd56c7fb72dd364419dfef78c15d71c021e5bf9239730930e479f24538"
 metafile = true
+
+[[files]]
+file = "resourcepacks/dmr-signs.zip"
+hash = "2faa92e92b1e32a032aed5f74e47f31af1ec0f8d1079d67f5e5847928d8cac84"
 
 [[files]]
 file = "resourcepacks/elizabeth-and-c2c-trains.pw.toml"
