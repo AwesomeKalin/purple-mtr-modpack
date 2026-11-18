@@ -1,0 +1,13 @@
+name = "[UPDATE]MTR France Addon"
+filename = "mtrfranceaddon-fabric-2.0.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YJct9p8I/versions/Yl1YrnKL/mtrfranceaddon-fabric-2.0.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "69ba29ad6016486c2eeb1d994d0129e2f305750fd7e7eff9a2edcac13fc8d66508c6ce9e4e8b5e4f8e5be9a24b974ac5a58ea90815c164929ec1759bc5b73df4"
+
+[update]
+[update.modrinth]
+mod-id = "YJct9p8I"
+version = "Yl1YrnKL"

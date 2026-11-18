@@ -214,6 +214,11 @@ hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
 metafile = true
 
 [[files]]
+file = "mods/mtr-france-addon.pw.toml"
+hash = "eadda92f7bf67cdf9cc27640a35b009c589e1e572807f662776b3142e6c65ae7"
+metafile = true
+
+[[files]]
 file = "mods/mtr-london-underground-trains.pw.toml"
 hash = "a2d27d944f570c90537967b25d64976262f84e275b897c7fed2bdedea8b0fe4d"
 metafile = true
