@@ -104,6 +104,16 @@ hash = "73a5bf0f7c01c48e99d536a9ed1cbd5fc5888754f7f0ff74b61935f98ea9a8b5"
 metafile = true
 
 [[files]]
+file = "mods/filters-api.pw.toml"
+hash = "69dbd4e31e660d82976083eeb8dc363ae0e35e48d23af2b614f810f77a9bc206"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "3809c28741580b29055f7886e271fceb4b08eb4edd103fb48992cb96a2db7f53"
+metafile = true
+
+[[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "b8b970af1b9ad441baa65e8928fb147044be3fb24c3f72a364ea53a6045da0cd"
 metafile = true
@@ -224,6 +234,11 @@ hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "520f2c919e1d766c99a93720297a2f6eece325b100634bcbb7a198efcdab055d"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "821587e4fd6cbb23dc6e29a9ebea5c0acf8967fca06ac887e1907f4eeee5fb73"
 metafile = true
@@ -264,8 +279,23 @@ hash = "782cb8f80ae73e812ae2fb9ed6235be21800457fc5f0ae6aaf40133ef9f99ba8"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "caa507edc23c21df56cda8b40d30d74eaa999b19bf2fe4e2b53cf9a256e1ac76"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "005d19ad26bdb3621c30c611caaf247ffa9ad32e66b65620291ec6517423aee2"
+metafile = true
+
+[[files]]
 file = "mods/the-tube.pw.toml"
 hash = "63d62513cc6d15a9341ebc16b040b6c80751601315e0d002d1dafa18cb190c51"
+metafile = true
+
+[[files]]
+file = "mods/tianjin-metro.pw.toml"
+hash = "9bf4b45eaec446aecb35d1de338f2c349ad0cf229fb4b95c820f9aa64f9a7942"
 metafile = true
 
 [[files]]
@@ -296,6 +326,10 @@ metafile = true
 [[files]]
 file = "resourcepacks/Mini_plane_2.0 (1).zip"
 hash = "30fea0b12f797af390dcb217b288c33df2c8e4ecf0ac562020674dd1ae78dc73"
+
+[[files]]
+file = "resourcepacks/TransCapital Announcement Pack.zip"
+hash = "8e6db5d48bfa0da530d218852d0503c04f4f134fcd9036989ee991bbe94f8fbd"
 
 [[files]]
 file = "resourcepacks/Yutong_U12_ElectricBus_addon_v2.2.zip"
@@ -408,6 +442,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr-n700a-series-shinkansen.pw.toml"
 hash = "cfd08303ad8cc1c9460aaaa66a5a1ece4ec0898f626759b67a047376b5bd5aba"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-shinkansen-infrastructure.pw.toml"
+hash = "8c06ee6080f70108b33f2d82363f1e8b8fec68e5796d3d83d2ed9eef57a21cc6"
 metafile = true
 
 [[files]]

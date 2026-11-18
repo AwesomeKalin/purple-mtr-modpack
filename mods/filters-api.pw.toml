@@ -1,0 +1,13 @@
+name = "Filters API"
+filename = "filters-fabric-1.1.0+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/naBrvjcq/versions/Drb6LSkY/filters-fabric-1.1.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "71010d7f3bf6c01d04810c7bcfcd97cadb3a31df1b75cbf16ccf220cb646ec8976ab82d9da8901b5ebc56c8739051853521c79e2cdf2f9d771dbf7a99c998f0c"
+
+[update]
+[update.modrinth]
+mod-id = "naBrvjcq"
+version = "Drb6LSkY"

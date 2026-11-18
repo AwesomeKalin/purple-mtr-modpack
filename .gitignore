@@ -1,8 +1,5 @@
 # Exclude exported CurseForge zip files
-*.zip
+PurpleMTR MultiMC.zip
 
 # Exclude exported Modrinth modpacks
 *.mrpack
-
-# Exclude plain mods version
-plain/
