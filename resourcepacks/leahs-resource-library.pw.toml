@@ -1,0 +1,13 @@
+name = "Leah's Resource Library"
+filename = "Leah's Resource Library v1.4.1-hotfix1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZvMcucfg/versions/yoUKoUxN/Leah%27s%20Resource%20Library%20v1.4.1-hotfix1.zip"
+hash-format = "sha512"
+hash = "ed0a13d2c23a96323cd830b40c16f74f33f08634234e716b3b3c3cc5c67802d5fa6a9f72aad4d0219d3921d8541a04a6b09763095f6196814433e5aa9f0b192e"
+
+[update]
+[update.modrinth]
+mod-id = "ZvMcucfg"
+version = "yoUKoUxN"

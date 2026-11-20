@@ -378,6 +378,11 @@ hash = "402a93f4e0547ed78bbc0781b7f0e1ef9e152912719b544b497a0e3d22d1a51a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/cehntro.pw.toml"
+hash = "8f266ea48b6c2e73eb92a9090e766f85f510d563d47617341b9c4de7819c80e1"
+metafile = true
+
+[[files]]
 file = "resourcepacks/chiba-monorail-pack-mtr.pw.toml"
 hash = "e8503c3c149229039edb8e8d3d080ccf99c4717b9b3163c392acbe735e767a64"
 metafile = true
@@ -431,6 +436,16 @@ hash = "99780c05ad605b72362cc7bd1610ee1cb3a4220d7a0c3e525b683f751d01dc35"
 metafile = true
 
 [[files]]
+file = "resourcepacks/leahs-resource-library.pw.toml"
+hash = "d5a7e7388655e0fd5751fa9aef0ec2cf1a0fe4a309ca5fdaa3d9106f8529dad4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/leahs_freight_pack.pw.toml"
+hash = "f9311e8261a216fd274aa6f39bf3c7d88994a62d22d5fc666ce8af1d49210b25"
+metafile = true
+
+[[files]]
 file = "resourcepacks/lert-osaka-21.pw.toml"
 hash = "32d952bc320f98f42f55c85a68e2409e542b970dcf7050d17cef063588bdb453"
 metafile = true
@@ -458,6 +473,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr-curved-platform.pw.toml"
 hash = "9c42dd249866c71632c02a15b30baace2cb955abf611f194cc41c761cd69420c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-intercoupling.pw.toml"
+hash = "55d427b73601d542b45961c28702d79a966298a5ec307670f54d72aee0a4cc75"
 metafile = true
 
 [[files]]
